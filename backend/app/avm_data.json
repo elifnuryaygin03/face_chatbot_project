@@ -1,0 +1,40 @@
+{
+    "isim": "Mavi Vadi AVM",
+    "saat": "10:00-22:00",
+    "kat_sayisi": 5,
+    "katlar": {
+        "-1": "Otopark",
+        "0": "Giriş kat - Marketler ve Teknoloji Mağazaları",
+        "1": "1. kat - Giyim Mağazaları",
+        "2": "2. kat - Yemek Katı ve Sinema",
+        "3": "3. kat - Çocuk Oyun Alanı ve Etkinlik Alanı"
+    },
+    "yerler": {
+        "eczane": "AVM'nin batı çıkışında 200 metre ileride. AVM'den çıktıktan sonra sağa dönüp 200 metre düz gitmeniz gerekiyor.",
+        "hastane": "AVM'nin kuzeyinde 1 km mesafede. AVM'den çıkıp ana caddeye çıkın ve sola dönün. 10-15 dakikalık yürüme mesafesinde.",
+        "yemek": "Yemek katı 2. katta bulunuyor. Asansör veya yürüyen merdivenlerle ulaşabilirsiniz.",
+        "sinema": "Sinema 2. katta bulunuyor. Biletler gişeden veya mobil uygulamamızdan alınabilir.",
+        "tuvalet": "Tuvaletler her katta bulunuyor. Yön tabelalarını takip ederek en yakın tuvalete ulaşabilirsiniz.",
+        "otopark": "Otopark -1. katta bulunuyor. Giriş ve çıkışlar AVM'nin kuzey ve güney taraflarında.",
+        "oyun": "Çocuk oyun alanı 3. katta bulunuyor. Asansör veya yürüyen merdivenle ulaşabilirsiniz.",
+        "atm": "ATM'ler giriş katta ve 2. kattaki banka şubesinin yanında bulunuyor."
+    },
+    "mağazalar": {
+        "giyim": ["DeFacto", "LC Waikiki", "Koton", "Mavi", "Zara", "H&M"],
+        "teknoloji": ["MediaMarkt", "Teknosa", "Vatan Bilgisayar"],
+        "market": ["Migros", "Carrefour"],
+        "restoran": ["Burger King", "McDonald's", "Pizza Pizza", "Domino's Pizza", "Popeyes", "Köfteci Yusuf", "Baydöner"]
+    },
+    "filmler": [
+        "Transformers: Yeni Nesil",
+        "Hızlı ve Öfkeli 10",
+        "Barbie",
+        "Oppenheimer",
+        "Mega Fırlatıcı"
+    ],
+    "restoran_türleri": {
+        "fast_food": ["Burger King", "McDonald's", "Popeyes"],
+        "pizza": ["Pizza Pizza", "Domino's Pizza"],
+        "türk_mutfağı": ["Köfteci Yusuf", "Baydöner"]
+    }
+}
